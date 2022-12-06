@@ -20,7 +20,7 @@ export default function Form() {
      
         // event.preventDefault()
         // if(formData.password === #sqlitedatabase) {
-        //     console.log("Successfully signed up")
+        //     console.log("Successful")
         // } else {
         //     console.log("Passwords do not match")
         //     return
@@ -53,7 +53,7 @@ export default function Form() {
                 <button 
                     className="form--submit"
                 >
-                    Sign up
+                    Sign in
                 </button>
             </form>
         </div>
